@@ -1,0 +1,28 @@
+name: Hamilton industries
+favicon: null
+layout_spectrum: 0.9468417577445507
+typography_spectrum: 0.6689375459682196
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6228693958837539
+  lightness: 0.7761811215896159
+  saturation: 0.10657728370279074
+  rhythmicContrast: 0.5222066566348076
+purpose: []

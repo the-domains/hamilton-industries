@@ -1,6 +1,6 @@
 name: 'Hamilton '
 favicon: null
-layout_spectrum: 0.00181
+layout_spectrum: 0.12342
 typography_spectrum: 0.30987
 title: Observando o passado para construir o futuro.
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0f0f11'
-    - '#53564d'
-    - '#81806b'
-    - '#ffe9e7'
-    - '#b6d4cd'
+    - '#2f1d37'
+    - '#d7c6e8'
+    - '#b684aa'
+    - '#7a629e'
+    - '#ad5089'
   brandStrength: 0.6228693958837539
-  lightness: 0.7761811215896159
-  saturation: 0.10657728370279074
-  rhythmicContrast: 0.5222066566348076
+  lightness: 0.6875
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []

@@ -1,29 +1,18 @@
-name: 'Hamilton '
-favicon: null
-layout_spectrum: 0.12342
-typography_spectrum: 0.30987
-title: Observando o passado para construir o futuro.
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#080500'
-    - '#e1a64c'
-    - '#f8edfd'
-    - '#55514e'
-    - '#c22d15'
-  brandStrength: 0.0625
-  lightness: 0.3125
-  saturation: 1
-  rhythmicContrast: 0.5
+    - '#D0C0A0'
+    - '#5B482A'
+    - '#807070'
+    - '#C8B088'
+    - '#E0D0B0'
+  brandStrength: 1
+  lightness: 0.991554
+  rhythmicContrast: 1
+  saturation: 0
+cta: {}
+layout_spectrum: 0.12342
+name: 'Hamilton '
+opengraph: {}
 purpose: []
+typography_spectrum: 0.30987

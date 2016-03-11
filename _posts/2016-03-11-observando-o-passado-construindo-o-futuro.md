@@ -5,23 +5,25 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-11T14:24:54.465Z'
-dateModified: '2016-03-11T14:24:52.846Z'
+description: 'Essa frase sempre me fez questionar a intenção do autor ao criá-la. Será que ele quis dizer que o futuro, independente do que fizermos, será sempre uma repetição do passado? Será que iremos sempre repetir os mesmos acertos e erros que cometemos? '
+datePublished: '2016-03-11T14:36:27.855Z'
+dateModified: '2016-03-11T14:32:58.218Z'
 title: 'Observando o passado, construindo o futuro.'
 author: []
+sourcePath: _posts/2016-03-11-observando-o-passado-construindo-o-futuro.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-observando-o-passado-construindo-o-futuro.md
-published: true
 url: observando-o-passado-construindo-o-futuro/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/25bb2ba1-135a-429e-a0e7-a65af2cbbb5a.jpg)
+
 # Observando o passado, construindo o futuro.
 
 > O futuro é o reflexo do passado.

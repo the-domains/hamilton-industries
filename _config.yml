@@ -1,18 +1,28 @@
-analytics: {}
+name: 'Hamilton '
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.618243
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
-    - '#D0C0A0'
-    - '#5B482A'
-    - '#807070'
-    - '#C8B088'
-    - '#E0D0B0'
+    - '#030406'
+    - '#162c41'
+    - '#406086'
+    - '#9eb7d5'
+    - '#ccdcf6'
   brandStrength: 1
   lightness: 0.991554
-  rhythmicContrast: 1
   saturation: 0.780405
-cta: {}
-layout_spectrum: 0.763513
-name: 'Hamilton '
-opengraph: {}
+  rhythmicContrast: 1
 purpose: []
-typography_spectrum: 0.618243

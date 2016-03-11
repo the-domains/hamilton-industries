@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Essa frase sempre me fez questionar a intenção do autor ao criá-la. Será que ele quis dizer que o futuro, independente do que fizermos, será sempre uma repetição do passado? Será que iremos sempre repetir os mesmos acertos e erros que cometemos? '
-datePublished: '2016-03-11T14:36:27.855Z'
-dateModified: '2016-03-11T14:32:58.218Z'
+datePublished: '2016-03-11T20:33:18.731Z'
+dateModified: '2016-03-11T20:33:17.467Z'
 title: 'Observando o passado, construindo o futuro.'
 author: []
 sourcePath: _posts/2016-03-11-observando-o-passado-construindo-o-futuro.md
